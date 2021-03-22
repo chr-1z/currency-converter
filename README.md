@@ -6,4 +6,4 @@ Realizei o projeto com HTML, CSS e JavaScript.
 
 Segue abaixo o resultado.
 
-![Projeto Timer](https://media.giphy.com/media/OZttlVnd7SoB40duRM/source.mp4)
+![Projeto Timer](https://media.giphy.com/media/OZttlVnd7SoB40duRM/giphy.gif)
