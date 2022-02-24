@@ -1,8 +1,8 @@
-# Countdown-Timer
+# Currency-Converter
 
-Este projeto é um Timer do tempo que resta até o ano novo (2022).
+Este projeto é um Conversor de moedas.
 
-Realizei o projeto com HTML, CSS e JavaScript.
+Realizei o projeto com HTML, CSS, JavaScript e ReactJS.
 
 Segue abaixo o resultado.
 
